@@ -1,4 +1,3 @@
-
 <?php
 $filename = '/tmp/readiness';
 
